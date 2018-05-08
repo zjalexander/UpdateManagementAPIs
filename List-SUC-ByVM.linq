@@ -1,17 +1,3 @@
-<Query Kind="Statements">
-  <Reference>&lt;RuntimeDirectory&gt;\System.Configuration.dll</Reference>
-  <Reference>&lt;RuntimeDirectory&gt;\System.Security.dll</Reference>
-  <NuGetReference Version="3.0.1-preview" Prerelease="true">Microsoft.Azure.Management.Automation</NuGetReference>
-  <NuGetReference>Microsoft.Azure.Management.ResourceManager.Fluent</NuGetReference>
-  <Namespace>Microsoft.Azure.Management.Automation</Namespace>
-  <Namespace>Microsoft.Azure.Management.Automation.Models</Namespace>
-  <Namespace>Microsoft.Azure.Management.ResourceManager.Fluent</Namespace>
-  <Namespace>Microsoft.Azure.Management.ResourceManager.Fluent.Authentication</Namespace>
-  <Namespace>System.Configuration</Namespace>
-  <AppConfig>
-    <Path Relative="..\linqpad.config">C:\Users\zachal\OneDrive - Microsoft\test scripts\updateMgmt\linqpad.config</Path>
-  </AppConfig>
-</Query>
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Nugets:
