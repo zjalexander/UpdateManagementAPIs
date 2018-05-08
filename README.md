@@ -1,7 +1,8 @@
 # UpdateManagementAPIs
 A small selection of (unofficial. unsupported) demo scripts invoking the Update Management REST APIs
 
-This demo uses a service [principal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal)
+This demo uses a [service principal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal).
+
 The easiest way to use these snippets is via [LinqPad](https://www.linqpad.net/). You will need to create an app.config with the following values defined:
 ```
 <configuration>
